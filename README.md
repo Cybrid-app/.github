@@ -64,3 +64,13 @@ If you're building on web, Apple or Android, you'll likely be using one of the f
   - Listing Accounts
   - Getting a Quote
   - Executing a Trade
+
+### 4. Demo Applications
+
+We provide links to example applications designed to demonstrate how to use Cybrid API clients and libraries.  
+
+| Language | Demo application |
+| --- | --- |
+| Python | [cybrid-demo-app-python](https://github.com/Cybrid-app/cybrid-demo-app-python)
+| Ruby | [cybrid-demo-app-ruby](https://github.com/Cybrid-app/cybrid-demo-app-ruby)
+| Typescript | [cybrid-demo-app-typescript](https://github.com/Cybrid-app/cybrid-demo-app-typescript)
