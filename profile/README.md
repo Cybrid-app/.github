@@ -38,13 +38,13 @@ API clients are auto-generated and tested based on our Open API 3.0 specs. Selec
 
 | Language | Identies API Clients| Organization API Clients | Bank API Clients| 
 | --- | --- | --- | --- |
-| Angular | [cybrid-api-id-angular](./cybrid-api-id-angular) | [cybrid-api-organization-angular](./cybrid-api-organization-angular) | [cybrid-api-bank-angular](./cybrid-api-bank-angular) |
-| Java | [cybrid-api-id-java](./cybrid-api-id-java) | [cybrid-api-organization-java](./cybrid-api-organization-java) | [cybrid-api-bank-java](./cybrid-api-bank-java) |
-| Kotlin | [cybrid-api-id-kotlin](./cybrid-api-id-kotlin) | [cybrid-api-organization-kotlin](./cybrid-api-organization-kotlin) | [cybrid-api-bank-kotlin](./cybrid-api-bank-kotlin) |
-| Python | [cybrid-api-id-python](./cybrid-api-id-python) | [cybrid-api-organization-python](./cybrid-api-organization-python) | [cybrid-api-bank-python](./cybrid-api-bank-python) |
-| Ruby | [cybrid-api-id-ruby](./cybrid-api-id-ruby) | [cybrid-api-organization-ruby](./cybrid-api-organization-ruby) | [cybrid-api-bank-ruby](./cybrid-api-bank-ruby) |
-| Swift | [cybrid-api-id-swift](./cybrid-api-id-swift) | [cybrid-api-organization-swift](./cybrid-api-organization-swift) | [cybrid-api-bank-swift](./cybrid-api-bank-swift) |
-| Typescript | [cybrid-api-id-typescript](./cybrid-api-id-typescript) | [cybrid-api-organization-typescript](./cybrid-api-organization-typescript) | [cybrid-api-bank-typescript](./cybrid-api-bank-typescript) |
+| Angular | [cybrid-api-id-angular](https://github.com/Cybrid-app/cybrid-api-id-angular) | [cybrid-api-organization-angular](https://github.com/Cybrid-app/cybrid-api-organization-angular) | [cybrid-api-bank-angular](https://github.com/Cybrid-app/cybrid-api-bank-angular) |
+| Java | [cybrid-api-id-java](https://github.com/Cybrid-app/cybrid-api-id-java) | [cybrid-api-organization-java](https://github.com/Cybrid-app/cybrid-api-organization-java) | [cybrid-api-bank-java](https://github.com/Cybrid-app/cybrid-api-bank-java) |
+| Kotlin | [cybrid-api-id-kotlin](https://github.com/Cybrid-app/cybrid-api-id-kotlin) | [cybrid-api-organization-kotlin](https://github.com/Cybrid-app/cybrid-api-organization-kotlin) | [cybrid-api-bank-kotlin](https://github.com/Cybrid-app/cybrid-api-bank-kotlin) |
+| Python | [cybrid-api-id-python](https://github.com/Cybrid-app/cybrid-api-id-python) | [cybrid-api-organization-python](https://github.com/Cybrid-app/cybrid-api-organization-python) | [cybrid-api-bank-python](https://github.com/Cybrid-app/cybrid-api-bank-python) |
+| Ruby | [cybrid-api-id-ruby](https://github.com/Cybrid-app/cybrid-api-id-ruby) | [cybrid-api-organization-ruby](https://github.com/Cybrid-app/cybrid-api-organization-ruby) | [cybrid-api-bank-ruby](https://github.com/Cybrid-app/cybrid-api-bank-ruby) |
+| Swift | [cybrid-api-id-swift](https://github.com/Cybrid-app/cybrid-api-id-swift) | [cybrid-api-organization-swift](https://github.com/Cybrid-app/cybrid-api-organization-swift) | [cybrid-api-bank-swift](https://github.com/Cybrid-app/cybrid-api-bank-swift) |
+| Typescript | [cybrid-api-id-typescript](https://github.com/Cybrid-app/cybrid-api-id-typescript) | [cybrid-api-organization-typescript](https://github.com/Cybrid-app/cybrid-api-organization-typescript) | [cybrid-api-bank-typescript](https://github.com/Cybrid-app/cybrid-api-bank-typescript) |
 
 ### 3. Platform Specific SDK Libraries
 
@@ -52,12 +52,12 @@ If you're building on web, Apple or Android, you'll likely be using one of the f
 
 | Library | Description |
 | --- | --- |
-| [cybrid-sdk-web](./cybrid-sdk-web) | Web component library and demo application for Cybrid API. |
-| [cybrid-sdk-android](./cybrid-sdk-android) | Anroid component library and demo application for Cybrid API. |
+| [cybrid-sdk-web](https://github.com/Cybrid-app/cybrid-sdk-web) | Web component library and demo application for Cybrid API. |
+| [cybrid-sdk-android](https://github.com/Cybrid-app/cybrid-sdk-android) | Anroid component library and demo application for Cybrid API. |
 | cybrid-sdk-ios | _(**Coming Soon**)_ Apple component library and demo application for Cybrid API. |
 
 >A few things should be noted about these SDKs:
-- They are UI-based SDKs, containining only end-user facing functionality for their respective platforms
+- They are UI-based SDKs, containing only end-user facing functionality for their respective platforms
 - They are built on top of the bank API _(I.e., Identity or Organization calls will need to use respective API)_
 - They capture the core user functionality of trading including:
   - Listing Prices
