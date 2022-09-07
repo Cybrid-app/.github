@@ -52,7 +52,7 @@ If you're building on web, Apple or Android, you'll likely be using one of the f
 
 | Library | Description |
 | --- | --- |
-| [cybrid-sdk-web](https://github.com/Cybrid-app/cybrid-sdk-web) | Web component library and demo application for Cybrid API. |
+| [cybrid-sdk-web](https://github.com/Cybrid-app/cybrid-sdk-web) | Web component library and demo application for Cybrid API. [Live Demo](https://cybrid-app.github.io/cybrid-sdk-web/) |
 | [cybrid-sdk-android](https://github.com/Cybrid-app/cybrid-sdk-android) | Anroid component library and demo application for Cybrid API. |
 | cybrid-sdk-ios | _(**Coming Soon**)_ Apple component library and demo application for Cybrid API. |
 
