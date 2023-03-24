@@ -8,8 +8,9 @@ This is Cybrid's public repo, containing a variety of code, tooling and samples 
 
 > Before using any of the below libraries you'll need to complete the steps in the below guides.
 
-* [Getting Started in the Sandbox](https://www.cybrid.xyz/guides/getting-started)
-* [Getting Ready for trading](https://www.cybrid.xyz/guides/getting-ready-for-trading)
+* [Understanding the Platform](https://kb.cybrid.xyz/understanding-the-platform)
+* [Getting Started in the Sandbox](https://kb.cybrid.xyz/getting-started-guide)
+* [Getting Ready for trading](https://kb.cybrid.xyz/getting-ready-for-trading)
 
 
 ## Working with the Cybrid Platform
@@ -26,11 +27,11 @@ Our API's are divided into three categories, though the Bank API is the primary 
 
 | API | Description |
 | --- | --- |
-| [Identities API](https://id.demo.cybrid.app/api/schema/swagger-ui/index.html) | Top-level APIs to create and list Organizations and Banks . |
-| [Organization API](https://organization.demo.cybrid.app/api/schema/swagger-ui/index.html) | APIs to manage Organizations, including listing and updating organization details.|
-| [Bank API](https://bank.demo.cybrid.app/api/schema/swagger-ui/index.html) | APIs to manage Banks, including Customers, Custody Identity Records, Accounts, Quotes, Trades and Fees. |
+| [Identities API](https://id.sandbox.cybrid.app/api/schema/swagger-ui/index.html) | Top-level APIs to create and list Organizations and Banks . |
+| [Organization API](https://organization.sandbox.cybrid.app/api/schema/swagger-ui/index.html) | APIs to manage Organizations, including listing and updating organization details.|
+| [Bank API](https://bank.sandbox.cybrid.app/api/schema/swagger-ui/index.html) | APIs to manage Banks, including Customers, Custody Identity Records, Accounts, Quotes, Trades and Fees. |
 
-> If you want to directly connect to our API, our interactive Open API 3.0 Documentation is [available here](https://bank.demo.cybrid.app/api/schema/swagger-ui/index.html).
+> If you want to directly connect to our API, our interactive Open API 3.0 Documentation is [available here](https://bank.sandbox.cybrid.app/api/schema/swagger-ui/index.html).
 
 ### 2. API Clients
 
