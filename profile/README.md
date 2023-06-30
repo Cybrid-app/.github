@@ -55,7 +55,7 @@ If you're building on web, Apple or Android, you'll likely be using one of the f
 | --- | --- |
 | [cybrid-sdk-web](https://github.com/Cybrid-app/cybrid-sdk-web) | Web component library and demo application for Cybrid API. [Live Demo](https://cybrid-app.github.io/cybrid-sdk-web/) |
 | [cybrid-sdk-android](https://github.com/Cybrid-app/cybrid-sdk-android) | Anroid component library and demo application for Cybrid API. [Live Demo](https://appetize.io/app/qa3rsevtyqmtq7p7ssllcz53um?device=pixel4&osVersion=11.0&scale=75) |
-| [cybrid-sdk-ios](https://github.com/Cybrid-app/cybrid-sdk-ios) | iOS component library and demo application for Cybrid API. Live Demo (Coming soon) |
+| [cybrid-sdk-ios](https://github.com/Cybrid-app/cybrid-sdk-ios) | iOS component library and demo application for Cybrid API. [Live Demo](https://appetize.io/app/wpwivtcpkph2da22z2kgxscfum?device=iphone14pro&osVersion=16.2&scale=75) |
 
 >A few things should be noted about these SDKs:
 - They are UI-based SDKs, containing only end-user facing functionality for their respective platforms
