@@ -8,9 +8,9 @@ This is Cybrid's public repo, containing a variety of code, tooling and samples 
 
 > Before using any of the below libraries you'll need to complete the steps in the below guides.
 
-* [Understanding the Platform](https://kb.cybrid.xyz/understanding-the-platform)
-* [Getting Started in the Sandbox](https://kb.cybrid.xyz/getting-started-guide)
-* [Getting Ready for trading](https://kb.cybrid.xyz/getting-ready-for-trading)
+* [Understanding the Platform](http://docs.cybrid.xyz/docs/platform-overview)
+* [Getting Started in the Sandbox](http://docs.cybrid.xyz/docs/cybrid-sandbox)
+* [Getting Ready for trading](http://docs.cybrid.xyz/docs/trade-process)
 
 
 ## Working with the Cybrid Platform
